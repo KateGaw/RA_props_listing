@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RA_props_listing/static/css/main.d1c59c3d.chunk.css",
+    "main.js": "/RA_props_listing/static/js/main.258f6ca3.chunk.js",
+    "main.js.map": "/RA_props_listing/static/js/main.258f6ca3.chunk.js.map",
+    "runtime-main.js": "/RA_props_listing/static/js/runtime-main.c5d80295.js",
+    "runtime-main.js.map": "/RA_props_listing/static/js/runtime-main.c5d80295.js.map",
+    "static/js/2.af07e3e5.chunk.js": "/RA_props_listing/static/js/2.af07e3e5.chunk.js",
+    "static/js/2.af07e3e5.chunk.js.map": "/RA_props_listing/static/js/2.af07e3e5.chunk.js.map",
+    "index.html": "/RA_props_listing/index.html",
+    "precache-manifest.34a9063f882e1628393eff23f60cede5.js": "/RA_props_listing/precache-manifest.34a9063f882e1628393eff23f60cede5.js",
+    "service-worker.js": "/RA_props_listing/service-worker.js",
+    "static/css/main.d1c59c3d.chunk.css.map": "/RA_props_listing/static/css/main.d1c59c3d.chunk.css.map",
+    "static/js/2.af07e3e5.chunk.js.LICENSE.txt": "/RA_props_listing/static/js/2.af07e3e5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d80295.js",
+    "static/js/2.af07e3e5.chunk.js",
+    "static/css/main.d1c59c3d.chunk.css",
+    "static/js/main.258f6ca3.chunk.js"
+  ]
+}
