@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/eoxkgehfcy1srd0q?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-props-listing)
 
 https://kategaw.github.io/RA_props_listing/
 
